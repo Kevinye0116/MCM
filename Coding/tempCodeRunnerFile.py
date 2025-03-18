@@ -1,0 +1,1 @@
+sobol.analyze(problem, Y)
